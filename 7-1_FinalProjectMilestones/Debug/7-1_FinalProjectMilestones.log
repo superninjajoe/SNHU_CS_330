@@ -1,0 +1,85 @@
+﻿  SceneManager.cpp
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(348,20): error C2039: 'LoadSceneTextures': is not a member of 'SceneManager'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.h(24): message : see declaration of 'SceneManager'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(352,12): error C3861: 'CreateGLTexture': identifier not found
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(357,12): error C3861: 'CreateGLTexture': identifier not found
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(362,12): error C3861: 'CreateGLTexture': identifier not found
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(367,2): error C2059: syntax error: ')'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(371,2): error C3861: 'BindGLTextures': identifier not found
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(477,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(477,41): error C2440: 'initializing': cannot convert from 'glm::vec3' to 'int'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(477,10): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(480,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(480,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(481,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(481,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(482,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(482,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(485,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(485,42): error C2440: 'initializing': cannot convert from 'glm::vec3' to 'int'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(485,13): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(493,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(488,19): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(488,19): message : The initializer contains too many elements
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(495,35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(495,36): error C2440: 'initializing': cannot convert from 'const char [16]' to 'int'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(495,17): message : There is no context in which this conversion is possible
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(498,14): error C3927: '->': trailing return type is not allowed after a non-function declarator
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(498,35): error C3613: missing return type after '->' ('int' assumed)
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(498,35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(498,16): error C2146: syntax error: missing ';' before identifier 'DrawTaperedCylinder'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(500,1): error C2059: syntax error: '}'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(500,1): error C2143: syntax error: missing ';' before '}'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(509,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(509,2): error C2374: 'XrotationDegrees': redefinition; multiple initialization
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(480): message : see declaration of 'XrotationDegrees'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(509,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(510,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(510,2): error C2374: 'YrotationDegrees': redefinition; multiple initialization
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(481): message : see declaration of 'YrotationDegrees'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(510,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(511,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(511,2): error C2374: 'ZrotationDegrees': redefinition; multiple initialization
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(482): message : see declaration of 'ZrotationDegrees'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(511,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(514,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(514,2): error C2374: 'positionXYZ': redefinition; multiple initialization
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(485): message : see declaration of 'positionXYZ'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(514,43): error C2440: 'initializing': cannot convert from 'glm::vec3' to 'int'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(514,14): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(522,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(517,2): error C2374: 'SetTransformations': redefinition; multiple initialization
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(488): message : see declaration of 'SetTransformations'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(517,20): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(517,20): message : The initializer contains too many elements
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(525,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(525,2): error C2374: 'SetShaderTexture': redefinition; multiple initialization
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(495): message : see declaration of 'SetShaderTexture'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(525,28): error C2440: 'initializing': cannot convert from 'const char [7]' to 'int'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(525,18): message : There is no context in which this conversion is possible
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(528,15): error C3927: '->': trailing return type is not allowed after a non-function declarator
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(528,31): error C3613: missing return type after '->' ('int' assumed)
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(528,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(528,2): error C2086: 'int m_basicMeshes': redefinition
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(498): message : see declaration of 'm_basicMeshes'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(528,17): error C2146: syntax error: missing ';' before identifier 'DrawSphereMesh'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(531,1): error C2059: syntax error: '}'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(531,1): error C2143: syntax error: missing ';' before '}'
+  ViewManager.cpp
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(49,6): error C2373: 'glViewport': redefinition; different type modifiers
+U:\CS330Content\Libraries\GLEW\include\GL\glew.h(1183): message : see declaration of 'glViewport'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(53,1): error C2447: '{': missing function header (old-style formal list?)
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(61,6): error C2373: 'glOrtho': redefinition; different type modifiers
+U:\CS330Content\Libraries\GLEW\include\GL\glew.h(1037): message : see declaration of 'glOrtho'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(68,1): error C2447: '{': missing function header (old-style formal list?)
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(159,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(160,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(165,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(166,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(169,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(170,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(176,34): error C2660: 'Camera::ProcessMouseMovement': function does not take 0 arguments
+U:\CS330Content\Utilities\camera.h(104,10): message : see declaration of 'Camera::ProcessMouseMovement'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(254,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
